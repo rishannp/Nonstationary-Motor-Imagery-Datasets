@@ -4,7 +4,7 @@ A compilation of unique datasets which can be used in endeavors that contribute 
 
 | Dataset | DOI/Link | Significance |
 |----------|----------|----------|
-| A. Geronimo et al. (2016)  | http://dx.doi.org/10.1088/1741-2560/13/2/026002 | ALS patients over 2 months of Motor Imagery data collection. Varying ALSFRS scores, and performance. |
+| A. Geronimo et al. (2016)  | http://dx.doi.org/10.1088/1741-2560/13/2/026002 and https://doi.org/10.5522/04/28156016.v1 | ALS patients over 2 months of Motor Imagery data collection. Varying ALSFRS scores, and performance. |
 | T. Fomina et al (2016) | http://dx.doi.org/10.1088/1741-2560/13/6/066021 | 2 ALS patients over 1-2 Years of data collection. Shows a deep longitudinal analysis and BCI experimentation with progression of disease |
 | C. Nguyen et al (2019) | https://doi.org/10.5061/dryad.609g597 // https://datadryad.org/stash/dataset/doi:10.5061/dryad.609g597 | Adaptive feedback/classifier paradigm with 8 participants  |
 | S. Nikolopoulos et al (2017) | https://figshare.com/articles/dataset/MAMEM_Phase_I_Dataset_-_A_dataset_for_multimodal_human-computer_interaction_using_biosignals_and_eye_tracking_information/5231053 // http://www.mamem.eu/ | The dataset includes EEG, eye-tracking, and physiological (GSR and Heart rate) signals along with demographic, clinical and behavioral data collected from 36 individuals (18 able-bodied and 18 motor-impaired). Data were collected during the interaction with specifically designed interface for web browsing and multimedia content manipulation and during imaginary movement tasks. Alongside these data we also include evaluation reports both from the subjects and the experimenters as far as the experimental procedure and collected dataset are concerned.  |
