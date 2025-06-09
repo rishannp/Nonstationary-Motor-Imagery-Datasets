@@ -1,5 +1,7 @@
-# Motor-Imagery-EEG-Dataset-Repository-
-A compilation of unique datasets which can be used in endeavors that contribute to the mitigation of non-stationarity in EEG Motor Imagery BCI's. 
+# Multi-session Nonstationary Datasets for Motor Imagery (MI) BCIs. 
+The majority of datasets we use are NOT apt in their usage for research into the nonstationarity problem. We require not only end users, but TRULY multi-session datasets over 2/3 sessions with sufficient temporal spacing. 
+
+This work is a compilation of unique datasets which can be used in endeavors that contribute to the mitigation of non-stationarity in EEG Motor Imagery BCI's. 
 Any of the papers with ** or bold are from my understanding a holy grail in this space and should be priortized. 
 
 
