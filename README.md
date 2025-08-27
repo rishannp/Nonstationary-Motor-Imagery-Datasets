@@ -18,3 +18,4 @@ Any of the papers with ** or bold are from my understanding a holy grail in this
 | ** Stieger et al (2021) | https://figshare.com/articles/dataset/Human_EEG_Dataset_for_Brain-Computer_Interface_and_Meditation/13123148 | Multisession (6-10) Dataset of Motor Imagey ** |
 | ** Zhou et al (2020) | https://dx.doi.org/10.21227/f1c7-7x89 | Multisession (7 days with 20 participants) ** | 
 | ** Ha Le et al (2024) | https://doi.org/10.6084/m9.figshare.24485689.v1 | 6 ALS Patients with MI over 10 sessions ** | 
+| **Kumar et al (2024) | https://zenodo.org/records/10694880 | 18 subjects over 6 days ** |
